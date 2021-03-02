@@ -1,0 +1,7 @@
+C:\Users\Wesne\source\repos\atividade_logica_n5\atividade_logica_n5\bin\Debug\atividade_logica_n5.exe.config
+C:\Users\Wesne\source\repos\atividade_logica_n5\atividade_logica_n5\bin\Debug\atividade_logica_n5.exe
+C:\Users\Wesne\source\repos\atividade_logica_n5\atividade_logica_n5\bin\Debug\atividade_logica_n5.pdb
+C:\Users\Wesne\source\repos\atividade_logica_n5\atividade_logica_n5\obj\Debug\atividade_logica_n5.csproj.CoreCompileInputs.cache
+C:\Users\Wesne\source\repos\atividade_logica_n5\atividade_logica_n5\obj\Debug\atividade_logica_n5.exe
+C:\Users\Wesne\source\repos\atividade_logica_n5\atividade_logica_n5\obj\Debug\atividade_logica_n5.pdb
+C:\Users\Wesne\source\repos\atividade_logica_n5\atividade_logica_n5\obj\Debug\atividade_logica_n5.csprojAssemblyReference.cache

@@ -1,0 +1,63 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace atividade_logica_n2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            int[] n = new int[4];
+            int[] s = new int[6];
+            int[] m = new int[6];
+            int loop1 = 1;
+
+            Console.WriteLine("3º PERIODO - DESENVOLVIMENTO DE SISTEMAS - WESNEY BRAZ");
+            Console.WriteLine("QUESTÃO NÚMERO 2º");
+            Console.WriteLine("");
+
+            //------------------------------------------------------------------------------------//
+            while (loop1 == 1)
+            {
+                Console.WriteLine("DIGITE 4 NUMETOS INTEIROS PARA SABER SUAS SOMAS E MULTIPLICAÇÕES ENTRE SI ");
+                Console.WriteLine("DIGITE O 1º NÚMERO ");
+                n[0] = int.Parse(Console.ReadLine());
+                Console.WriteLine("DIGITE O 2º NÚMERO ");
+                n[1] = int.Parse(Console.ReadLine());
+                Console.WriteLine("DIGITE O 3º NÚMERO ");
+                n[2] = int.Parse(Console.ReadLine());
+                Console.WriteLine("DIGITE O 4º NÚMERO ");
+                n[3] = int.Parse(Console.ReadLine());
+
+                s[0] = n[0] + n[1];
+                s[1] = n[0] + n[2];
+                s[2] = n[0] + n[3];
+                s[3] = n[1] + n[2];
+                s[4] = n[1] + n[3];
+                s[5] = n[2] + n[3];
+
+                m[0] = n[0] * n[1];
+                m[1] = n[0] * n[2];
+                m[2] = n[0] * n[3];
+                m[3] = n[1] * n[2];
+                m[4] = n[1] * n[3];
+                m[5] = n[2] * n[3];
+
+
+                Console.WriteLine("OS NÚMEROS DIGITADOS FORAM: {0} - {1} - {2} - {3} ", n[0], n[1], n[2], n[3]);
+                Console.WriteLine("RESULTADO DA SOMA ENTRE OS NÚMEROS DIGITADOS: {0} - {1} - {2} - {3} - {4} - {5} ", s[0], s[1], s[2], s[3], s[4], s[5]);
+                Console.WriteLine("RESULTADO DA MULTIPLICAÇÃO ENTRE OS NÚMEROS DIGITADOS: {0} - {1} - {2} - {3} - {4} - {5} ", m[0], m[1], m[2], m[3], m[4], m[5]);
+
+                Console.WriteLine("DIGITE NÚMERO 1 PARA REPETIR O CÁLCULO");
+                Console.WriteLine("DIGITE OUTRO NÚMERO PARA SAIR");
+                loop1 = int.Parse(Console.ReadLine());
+
+
+            }
+        }
+    }
+}

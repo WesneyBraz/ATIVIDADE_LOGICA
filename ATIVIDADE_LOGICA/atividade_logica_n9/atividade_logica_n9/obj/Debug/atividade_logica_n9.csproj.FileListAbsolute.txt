@@ -1,0 +1,7 @@
+C:\Users\Wesne\source\repos\atividade_logica_n9\atividade_logica_n9\bin\Debug\atividade_logica_n9.exe.config
+C:\Users\Wesne\source\repos\atividade_logica_n9\atividade_logica_n9\bin\Debug\atividade_logica_n9.exe
+C:\Users\Wesne\source\repos\atividade_logica_n9\atividade_logica_n9\bin\Debug\atividade_logica_n9.pdb
+C:\Users\Wesne\source\repos\atividade_logica_n9\atividade_logica_n9\obj\Debug\atividade_logica_n9.csprojAssemblyReference.cache
+C:\Users\Wesne\source\repos\atividade_logica_n9\atividade_logica_n9\obj\Debug\atividade_logica_n9.csproj.CoreCompileInputs.cache
+C:\Users\Wesne\source\repos\atividade_logica_n9\atividade_logica_n9\obj\Debug\atividade_logica_n9.exe
+C:\Users\Wesne\source\repos\atividade_logica_n9\atividade_logica_n9\obj\Debug\atividade_logica_n9.pdb

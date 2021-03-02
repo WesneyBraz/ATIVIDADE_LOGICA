@@ -1,0 +1,78 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace atividade_logica_n4
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int loop1 = 1;
+            int A, B, C;
+
+            Console.WriteLine("3º PERIODO - DESENVOLVIMENTO DE SISTEMAS - WESNEY BRAZ");
+            Console.WriteLine("QUESTÃO NÚMERO 4º");
+            Console.WriteLine("");
+
+            //------------------------------------------------------------------------------------//
+            while (loop1 == 1)
+            {
+                Console.WriteLine("DIGITE 3 NUMETOS INTEIROS  ");
+                Console.WriteLine("DIGITE O 1º NÚMERO ");
+                A = int.Parse(Console.ReadLine());
+                Console.WriteLine("DIGITE O 2º NÚMERO ");
+                B = int.Parse(Console.ReadLine());
+                Console.WriteLine("DIGITE O 3º NÚMERO ");
+                C = int.Parse(Console.ReadLine());
+
+                if ((A <= B) && ( B <= C))
+                {
+                     //A-B-C
+                     Console.WriteLine("ORDEM CRESCENTE {0} - {1} - {2} ",A,B,C);
+                }
+
+                if ((A <= B) && (C <= B))
+                {
+                     //A-C-B
+                     Console.WriteLine("ORDEM CRESCENTE {0} - {1} - {2} ",A,C,B);                  
+                }
+
+                if ((B <= C) && (C <= A))
+                {
+                    //B-C-A
+                    Console.WriteLine("ORDEM CRESCENTE {0} - {1} - {2} ", B, C, A);
+                }  
+                
+                if((B <= A) && (A <= C))
+                {
+                     //B-A-C
+                     Console.WriteLine("ORDEM CRESCENTE {0} - {1} - {2} ",B,A,C);                  
+                }
+
+                if((C <= A) && (A <= B))
+                {
+                     //C-A-B
+                     Console.WriteLine("ORDEM CRESCENTE {0} - {1} - {2} ",C,A,B);
+                }
+                if((C <= B) && (B <= A))
+                {
+                     //C-B-A
+                     Console.WriteLine("ORDEM CRESCENTE {0} - {1} - {2} ",C,B,A);
+
+                }
+
+                
+
+
+
+                Console.WriteLine("DIGITE NÚMERO 1 PARA REPETIR O CÁLCULO");
+                Console.WriteLine("DIGITE OUTRO NÚMERO PARA SAIR");
+                loop1 = int.Parse(Console.ReadLine());
+            }
+         
+        }
+    }
+}

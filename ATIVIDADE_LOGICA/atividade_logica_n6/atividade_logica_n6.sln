@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atividade_logica_n6", "atividade_logica_n6\atividade_logica_n6.csproj", "{587A1F79-7546-4AD6-9FF9-E1E3440FBAD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{587A1F79-7546-4AD6-9FF9-E1E3440FBAD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587A1F79-7546-4AD6-9FF9-E1E3440FBAD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587A1F79-7546-4AD6-9FF9-E1E3440FBAD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587A1F79-7546-4AD6-9FF9-E1E3440FBAD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73BD0FB8-61F8-4047-B532-77D337A13FD6}
+	EndGlobalSection
+EndGlobal

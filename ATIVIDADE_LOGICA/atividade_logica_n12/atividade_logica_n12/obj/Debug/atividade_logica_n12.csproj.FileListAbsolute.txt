@@ -1,0 +1,6 @@
+C:\Users\Wesne\source\repos\atividade_logica_n12\atividade_logica_n12\bin\Debug\atividade_logica_n12.exe.config
+C:\Users\Wesne\source\repos\atividade_logica_n12\atividade_logica_n12\bin\Debug\atividade_logica_n12.exe
+C:\Users\Wesne\source\repos\atividade_logica_n12\atividade_logica_n12\bin\Debug\atividade_logica_n12.pdb
+C:\Users\Wesne\source\repos\atividade_logica_n12\atividade_logica_n12\obj\Debug\atividade_logica_n12.csproj.CoreCompileInputs.cache
+C:\Users\Wesne\source\repos\atividade_logica_n12\atividade_logica_n12\obj\Debug\atividade_logica_n12.exe
+C:\Users\Wesne\source\repos\atividade_logica_n12\atividade_logica_n12\obj\Debug\atividade_logica_n12.pdb
